@@ -1,0 +1,14 @@
+{
+  "name": "deepline-web",
+  "version": "2.7.0",
+  "description": "DeepLine Web 2.7.0 with mandatory accounts and official music embed",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
